@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-24T10:21:39 ICT" name="Default suite" finished-at="2021-02-24T10:21:45 ICT" duration-ms="5954">
+    <groups>
+    </groups>
+    <test started-at="2021-02-24T10:21:39 ICT" name="Default test" finished-at="2021-02-24T10:21:45 ICT" duration-ms="5954">
+      <class name="login.Case_Login_Successfully">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:login.Case_Login_Successfully@7880cdf3]" started-at="2021-02-24T10:21:39 ICT" name="beforeClass" finished-at="2021-02-24T10:21:42 ICT" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Login_Successfully()[pri:0, instance:login.Case_Login_Successfully@7880cdf3]" started-at="2021-02-24T10:21:42 ICT" name="Login_Successfully" description="Login successfully with username and password valid" finished-at="2021-02-24T10:21:45 ICT" duration-ms="3480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Successfully -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:login.Case_Login_Successfully@7880cdf3]" started-at="2021-02-24T10:21:45 ICT" name="afterClass" finished-at="2021-02-24T10:21:45 ICT" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- login.Case_Login_Successfully -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
